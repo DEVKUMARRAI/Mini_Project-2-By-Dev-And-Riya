@@ -1,13 +1,13 @@
 body {
     font-family: 'Josefin Sans';
-    background-color: #FFFAFB;
+    background-color: #ede7dc;
   }
   
   * {
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-  
+    
   }
   
   ::-webkit-scrollbar {
@@ -55,12 +55,12 @@ body {
   
   .hero-banner-img {
     position: absolute;
-    right: 40px;
+    right: 20px;
     top: 0px;
     width: 700px;
     height: 900px;
     margin-top: -330px;
-  
+    border-bottom-left-radius: 15%;
   }
   
   .exercise-card {
